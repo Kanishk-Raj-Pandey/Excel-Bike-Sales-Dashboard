@@ -40,4 +40,5 @@ Project Outcome
 This project demonstrates how Microsoft Excel can be used to explore bike sales data and present customer-related patterns in a visual dashboard to support business analysis.
 
 Author
+
 Kanishk Raj
